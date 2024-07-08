@@ -1,0 +1,52 @@
+body {
+    padding: 20px 40px;
+    background-color: #042326 ;
+    }
+
+    .title {
+    text-align: center; 
+    color: white;
+    font-weight: normal;
+    border-top: solid 2px #0A3A40;
+    border-bottom: solid 2px #0A3A40;
+    padding: 3%;
+    }
+
+    .formulario {
+        background-color: #6F7A81;
+        padding: 7%;
+        margin-top: 10%;
+        margin-left: 20%;
+        margin-right: 20%;
+        text-align: center;
+    }
+
+    .pesos-CLP {
+        font-weight: lighter;
+        font-size: xx-large;
+        color: white;
+    }
+
+    .subtitle-convertir {
+        font-weight: lighter;
+        color: white;
+    }
+
+    select {
+        font-weight: lighter;
+        width: 100%;
+        text-align: center;
+        padding-top:3%;
+        padding-bottom: 3%;
+    }
+
+    .btn-primary {
+        background-color:#00DCF6 ;
+        border-color: #209CAE;
+        width: 100%;
+    }
+
+    .resultado{
+        text-align: center;
+        color: white;
+    }
